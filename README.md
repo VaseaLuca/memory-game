@@ -1,6 +1,5 @@
 # Memory Game (2 players)
-
-- just type `npm run dev` and try it out
+- npm install -> npm run dev
 
 - assuming you know how to play the game already, have fun 
 
