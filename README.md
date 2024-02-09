@@ -46,12 +46,12 @@
 
 # Identify the potential next steps in order to ‘productionize’ your solution:
 
-   Optimize Performance
-   Add a security level (sure if we have data we don't want to disclose to other people)
-   Testing
-   Conduct accessibility audits using tools like Lighthouse
-   Error Logging and Monitoring
-   Deployment
-   Documentation
-   Performance Monitoring
-   Scalability & Maintenance
+  1. Optimize Performance
+  2. Add a security level (sure if we have data we don't want to disclose to other people)
+  3. Testing
+  4. Conduct accessibility audits using tools like Lighthouse
+  5. Error Logging and Monitoring
+  6. Deployment
+  7. Documentation
+  8. Performance Monitoring
+  9. Scalability & Maintenance
