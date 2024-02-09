@@ -1,0 +1,11 @@
+.game-info {
+  display: flex;
+  max-width: 100%;
+  width: 100%;
+
+  &__multi {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+}
