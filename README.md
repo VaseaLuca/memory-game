@@ -1,5 +1,5 @@
 # Memory Game (2 players)
-- npm install -> npm run dev
+- `npm install` -> `npm run dev`
 
 - assuming you know how to play the game already, have fun 
 
