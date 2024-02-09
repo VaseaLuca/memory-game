@@ -39,12 +39,12 @@
 
 
 
-# Listing the known limitations
+# Listing the known limitations:
  
   - The players are not stressed by a timer
   - Can't make the grid dynamic, so gameboard like (6x6, 8x8, ...)
 
-# Identify the potential next steps in order to ‘productionize’ your solution
+# Identify the potential next steps in order to ‘productionize’ your solution:
 
   -Optimize Performance
   -Add a security level (sure if we have data we don't want to disclose to other people)
