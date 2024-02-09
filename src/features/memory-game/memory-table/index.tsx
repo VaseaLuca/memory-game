@@ -52,7 +52,6 @@ export const MemoryTable = ({ data, loading }: Props) => {
       dispatch(incrementScore(player));
     }
   }, [firstSelection, secondSelection]);
-  // console.log(player,'playerplayer');
 
   const resetSelection = () => {
     setFirstSelection(-1);
